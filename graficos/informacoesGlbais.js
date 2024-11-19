@@ -1,5 +1,3 @@
-const url 
+const url = https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json
 
-async function name(params) {
-    
-}
+console.log(url);
